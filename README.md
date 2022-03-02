@@ -417,4 +417,4 @@ Shashank Mishra, Jadavpur University
 
 ## **REFERENCES**
 * Sameer Durgoji's video
-* Ki-Hong Ryu, “A 3.3V 12-Bit High Speed Current CellMatrix CMOS DAC,” JKPS, pp.127-131, July 2001.
+* Inderjit Singh Dhanjal's YouTube video
